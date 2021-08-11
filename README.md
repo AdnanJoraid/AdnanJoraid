@@ -4,7 +4,7 @@ I'm a computer science student who's passionate about creating meaningful and fu
 
 🌱 I’m currently learning Full-Stack development using Django and ReactJS.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnan-joraid-9ab2a320b/) | [Personal Website](https://www.adnanjoraid.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnan-joraid-9ab2a320b/) | adnanjoraidca@gmail.com | [Personal Website](https://www.adnanjoraid.com)
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=adnanjoraid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
