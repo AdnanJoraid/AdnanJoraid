@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hey, I'm Adnan Joraid 👋
 
+I'm a computer science student who's passionate about creating meaningful and fun to use technologies. Some technologies I enjoy working with include: ReactJS, Django, Flask, and SwiftUI. I'm most interested in Full-Stack & Backend development.
+
+🌱 I’m currently learning Full-Stack development using Django and ReactJS.
+
+📫 How to reach me: [Personal Website](https://www.adnanjoraid.com/#contact) | [LinkedIn](https://www.linkedin.com/in/adnan-joraid-9ab2a320b/) 
+
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=adnanjoraid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
 **AdnanJoraid/AdnanJoraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
