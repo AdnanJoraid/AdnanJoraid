@@ -2,6 +2,7 @@
 
 I'm a computer science student who's passionate about creating meaningful and fun to use technologies. Some technologies I enjoy working with include: ReactJS, React Native, Django, Flask, and SwiftUI. I'm most interested in Full-Stack, Backend, and iOS development.
 
+🌱 I’m currently learning Full Stack development using Flask and React
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnan-joraid-9ab2a320b/) | adnanjoraidca@gmail.com | [Personal Website](https://www.adnanjoraid.com)
 
