@@ -2,6 +2,8 @@
 
 Third year Computer Science student who likes building cool things. 
 
+Currently learning MERN stack (TypeScript), GraphQL and PostgreSQL. 
+
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnan-joraid-9ab2a320b/) | adnanjoraidca@gmail.com | [Personal Website](https://www.adnanjoraid.com)
 
