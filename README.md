@@ -8,7 +8,7 @@ Technologies I want to learn in 2022:
 - [ ] GraphQL
 - [ ] PostgreSQL
 - [ ] Apollo
-- [ ] Node.JS
+- [ ] Node
 - [ ] Next.JS
 - [ ] MongoDB
 - [ ] Ruby
@@ -16,7 +16,7 @@ Technologies I want to learn in 2022:
 
 
 Stacks I want to create projects with:
-- [ ] React.JS (TypeScript), GraphQL, Apollo, Node (TypeScript), PostgreSQL
+- [ ] React (TypeScript), GraphQL, Apollo, Node (TypeScript), PostgreSQL
 - [ ] MongoDB, Express, React (TypeScript), Node (TypeScript)
 
 
