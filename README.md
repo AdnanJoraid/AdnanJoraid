@@ -21,10 +21,10 @@ Stacks I want to create projects with:
 
 Goals for 2022:
 - [ ] Rebuld my personal website with a different stack. (Currently my website uses Flask, Firestore, Bootstrap)
-- [ ] Change my "Most Used Language" below to TypeScript 
+<!-- - [ ] Change my "Most Used Language" below to TypeScript  -->
 - [ ] Publish an iOS application to the App Store
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats) -->
 <!--
 **AdnanJoraid/AdnanJoraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
