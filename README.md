@@ -2,12 +2,11 @@
 
 Currently attending Sheridan College for Computer Science. Interested in building Full-Stack and Mobile applications. 
 
-Technologies I want to learn in 2022:
+Technologies I will try to learn in 2022:
 
 - [x] TypeScript
 - [ ] GraphQL
 - [ ] PostgreSQL
-- [ ] Apollo
 - [ ] Node
 - [ ] Next.JS
 - [ ] MongoDB
@@ -23,6 +22,7 @@ Stacks I want to create projects with:
 Goals for 2022:
 - [ ] Rebuld my personal website with a different stack. (Currently my website uses Flask, Firestore, Bootstrap)
 - [ ] Change my "Most Used Language" below to TypeScript 
+- [ ] Publish an iOS application to the App Store
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats)
 <!--
