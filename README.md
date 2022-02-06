@@ -8,22 +8,18 @@ Technologies I will try to learn in 2022:
 - [ ] GraphQL
 - [ ] PostgreSQL
 - [ ] Node
-- [ ] Next.JS
-- [ ] MongoDB
-- [ ] Ruby
-- [ ] Ruby on Rails
 
 
-Stacks I want to create projects with:
+
+<!-- Stacks I want to create projects with:
 - [ ] React (TypeScript), GraphQL, Apollo, Node (TypeScript), PostgreSQL
-- [ ] MongoDB, Express, React (TypeScript), Node (TypeScript)
+- [ ] MongoDB, Express, React (TypeScript), Node (TypeScript) -->
 
 
-Goals for 2022:
+<!-- Goals for 2022:
 - [ ] Rebuld my personal website with a different stack. (Currently my website uses Flask, Firestore, Bootstrap)
 <!-- - [ ] Change my "Most Used Language" below to TypeScript  -->
-- [ ] Publish an iOS application to the App Store
-
+<!-- - [ ] Publish an iOS application to the App Store -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats) -->
 <!--
 **AdnanJoraid/AdnanJoraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
