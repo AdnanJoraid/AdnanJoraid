@@ -2,12 +2,12 @@
 
 Currently attending Sheridan College for Computer Science. Interested in building Full-Stack and Mobile applications. 
 
-Technologies I will try to learn in 2022:
+<!-- Technologies I will try to learn in 2022:
 
 - [x] TypeScript
 - [ ] GraphQL
 - [ ] PostgreSQL
-- [ ] Node
+- [ ] Node -->
 
 
 
