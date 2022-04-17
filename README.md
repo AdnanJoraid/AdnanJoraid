@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan Joraid 👋
 
-Currently attending Sheridan College for Computer Science. Interested in building Full-Stack and Mobile applications. 
+Currently attending Sheridan College for Computer Science. Interested in iOS development. 
 
 <!-- Technologies I will try to learn in 2022:
 
