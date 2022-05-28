@@ -2,7 +2,7 @@
 
 Currently attending Sheridan College for Computer Science. Interested in iOS development. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/adnanjoraid)
 
 
 <!-- Technologies I will try to learn in 2022:
