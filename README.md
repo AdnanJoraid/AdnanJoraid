@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan Joraid 👋
 
-Currently attending Sheridan College for Computer Science. Interested in iOS development. 
+Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of Python and C++. Interested in Software Engineering, Computer Vision, and low-level programming
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/adnanjoraid)
  -->
