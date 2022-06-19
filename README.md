@@ -3,7 +3,7 @@
 Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of iOS Development and Python. Interested in iOS Engineering, and Python.
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 
 <!-- Technologies I will try to learn in 2022:
 
