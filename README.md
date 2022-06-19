@@ -2,8 +2,7 @@
 
 Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of iOS Development and Python. Interested in iOS Engineering, and Python.
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats)
 
 <!-- Technologies I will try to learn in 2022:
 
@@ -23,7 +22,7 @@ Incoming forth year student attending Sheridan College for Computer Science. Cur
 - [ ] Rebuld my personal website with a different stack. (Currently my website uses Flask, Firestore, Bootstrap)
 <!-- - [ ] Change my "Most Used Language" below to TypeScript  -->
 <!-- - [ ] Publish an iOS application to the App Store -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats) -->
+
 <!--
 **AdnanJoraid/AdnanJoraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
