@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan Joraid 👋
 
-Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of iOS Development and Python. Interested in Software Engineering, iOS Engineering, Python.
+Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of iOS Development and Python. Interested in Software Engineering, iOS Engineering, and Python.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/adnanjoraid)
