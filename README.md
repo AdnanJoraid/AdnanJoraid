@@ -2,7 +2,7 @@
 
 Incoming forth year student attending Sheridan College for Computer Science. Currenlty Learning more of iOS Development and Python. Interested in iOS Engineering, Computer Vision, and Python.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&layout=compact)](https://github.com/adnanjoraid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid)](https://github.com/adnanjoraid/adnanjoraid)
 
 <!-- Technologies I will try to learn in 2022:
 
