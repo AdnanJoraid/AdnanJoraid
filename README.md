@@ -2,8 +2,8 @@
 
 Incoming forth year student attending Sheridan College for Computer Science. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&langs_count=3)](https://github.com/adnanjoraid/adnanjoraid)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanjoraid&langs_count=3)](https://github.com/adnanjoraid/adnanjoraid)
+ -->
 <!-- Technologies I will try to learn in 2022:
 
 - [x] TypeScript
